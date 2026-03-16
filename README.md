@@ -1,1 +1,3 @@
 This is a template Docker image for all Vessyl systems - it contains Node.JS, NPM, Docker, Git and unzip tools.
+
+# 0.0.3
